@@ -3,6 +3,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <kbd>Mathematician, Author, Programmer</kbd>
 ---------------------------------
 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=🎇Inspire+Create+Innovate🎇;🎇Learn+Teach+Master🎇)](https://git.io/typing-svg)
+
 I have over 14 years of teaching experience with over five years of programming experience. I specialize in data analysis using various platforms and languages. My passion is to study about learning mathematics and regularly contribute to a blog about Math Anxiety.
         
 *   🌍  I'm based in Waterloo, ON
