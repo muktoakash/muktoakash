@@ -1,7 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mukto Akash
 ===================================================================================================================================
-
-Mathematician, Author, Programmer
+<kbd>Mathematician, Author, Programmer</kbd>
 ---------------------------------
 
 I have over 14 years of teaching experience with over five years of programming experience. I specialize in data analysis using various platforms and languages. My passion is to study about learning mathematics and regularly contribute to a blog about Math Anxiety.
