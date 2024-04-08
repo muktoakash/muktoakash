@@ -18,6 +18,8 @@ I have over 14 years of teaching experience with over five years of programming 
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [A deer in headlights](https://anxiousatmath.blogspot.com/2024/03/a-deer-in-headlights.html)
+- [Born with a Math Brain](https://anxiousatmath.blogspot.com/2024/02/born-with-math-brain.html)
 <!-- BLOG-POST-LIST:END -->
 
                     
