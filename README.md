@@ -5,13 +5,83 @@ Mathematician, Author, Programmer
 ---------------------------------
 
 I have over 14 years of teaching experience with over five years of programming experience. I specialize in data analysis using various platforms and languages. My passion is to study about learning mathematics and regularly contribute to a blog about Math Anxiety.
-
-### Skills 
-
+        
 *   🌍  I'm based in Waterloo, ON
 *   ✉️  You can contact me at [muktoakash@gmail.com](mailto:muktoakash@gmail.com)
 *   🤝  I'm open to collaborating on python and C projects
 *   ⚡  Check out my blog on <a href="https://anxiousatmath.blogspot.com">Learning about Math Anxiety</a>
+
+
+### Skills 
+<details>
+  <summary>
+    <b> Data Analysis, Visualization, and Machine Learning </b>
+  </summary>
+  <ul class="list-group">
+            <li class="list-group-item">Clean and analyze data using
+              Pandas, numpy, and Excel</li>
+            <li class="list-group-item">Visualize data using
+              matplotlib and seaborn</li>
+            <li class="list-group-item">Train learning algorithms in
+              scikit-learn</li>
+            <li class="list-group-item">Create professional report with LaTeX.
+          </ul>
+</details>
+<details>
+  <summary>
+    <b>Programming, System Administration, and Web Development</b>
+  </summary>
+  <ul class="list-group">
+            <li class="list-group-item">
+              Create and manage website frontend through
+              HTML5, CSS3, Bootstrap, and JavaScript
+            </li>
+            <li class="list-group-item">
+              Set up and maintain website backend through
+              Django, MySQL, and Postgre SQL
+            </li>
+            <li class="list-group-item">
+              Use Docker on linux servers for webhosting, app deployment, and email services
+            </li>
+            <li class="list-group-item">Implement Data Structures and Algorithms in C and develop games in C++</li>
+          </ul>
+
+</details>
+<details>
+  <summary>
+    <b>Course Development, Teaching, and Learning</b>
+  </summary>
+  <ul class="list-group">
+            <li class="list-group-item">Redevelop curriculum for Engineering math course</li>
+            <li class="list-group-item">Co-author course notes for first year Algebra course</li>
+            <li class="list-group-item">
+              Prepare detailed lecture notes and teach University Math courses
+            </li>
+            <li class="list-group-item">
+              Create engaging assessments aligned with course learning outcomes
+            </li>
+            <li class="list-group-item">
+              Maintain regular office hours to facilitate student questions
+            </li>
+          </ul>
+</details>
+<details>
+  <summary>
+    <b>Supervision, Leadership, and Management</b>
+  </summary>
+  <ul class="list-group">
+            <li class="list-group-item">Lead project for analyzing service data</li>
+            <li class="list-group-item">
+              Coordinate large multisection course with over 1300 students
+            </li>
+            <li class="list-group-item">
+              Move to adopt new policies and practices as a member of the board
+              of a large cooperative residence (WCRI)
+            </li>
+            <li class="list-group-item">Reform internal transfer process for the Faculty of Math</li>
+            <li class="list-group-item">Train academic advisors on advising International students</li>
+          </ul>
+</details>
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
