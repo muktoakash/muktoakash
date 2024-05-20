@@ -135,5 +135,4 @@ I have over 14 years of teaching experience with over five years of programming 
 </p>
 
 ### <b>My GitHub Stats</b>
-<a href="http://www.github.com/muktoakash"><img
-src="https://github-readme-streak-stats.herokuapp.com/?user=muktoakash&stroke=ffffff&background=1c1917&ring=f97316&fire=f97316&currStreakNum=ffffff&currStreakLabel=f97316&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=muktoakash)](https://git.io/streak-stats)
