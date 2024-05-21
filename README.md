@@ -135,4 +135,4 @@ I have over 14 years of teaching experience with over five years of programming 
 </p>
 
 ### <b>My GitHub Stats</b>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=muktoakash)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=muktoakash&theme=dark)](https://git.io/streak-stats)
