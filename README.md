@@ -86,6 +86,7 @@ I have over 14 years of teaching experience with over five years of programming 
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Dark Side of the Wall](https://anxiousatmath.blogspot.com/2024/12/dark-side-of-wall.html)
 - [Baggage](https://anxiousatmath.blogspot.com/2024/06/baggage.html)
 - [I am not doing math - so I am happy!](https://anxiousatmath.blogspot.com/2024/04/i-am-not-doing-math-so-i-am-happy.html)
 - [A deer in headlights](https://anxiousatmath.blogspot.com/2024/03/a-deer-in-headlights.html)
