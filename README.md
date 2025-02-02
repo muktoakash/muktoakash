@@ -138,3 +138,9 @@ I have over 14 years of teaching experience with over five years of programming 
 
 ### <b>My GitHub Stats</b>
 [![GitHub Streak](https://streak-stats.demolab.com/?user=muktoakash&theme=dark)](https://git.io/streak-stats)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muktoakash/muktoakash/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muktoakash/muktoakash/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/muktoakash/muktoakash/output/github-snake.svg" />
+</picture>
