@@ -19,7 +19,7 @@ I have over 14 years of teaching experience with over five years of programming 
     <b> Data Analysis, Visualization, and Machine Learning </b>
   </summary>
   <ul class="list-group">
-            <li class="list-group-item">Clean and analyze data using
+            <li class="list-group-item">Clean and analyze data using Power BI,
               Pandas, numpy, and Excel</li>
             <li class="list-group-item">Visualize data using
               matplotlib and seaborn</li>
@@ -35,16 +35,16 @@ I have over 14 years of teaching experience with over five years of programming 
   <ul class="list-group">
             <li class="list-group-item">
               Create and manage website frontend through
-              HTML5, CSS3, Bootstrap, and JavaScript
+              HTML5, CSS3, Bootstrap, and JavaScript (Node/Express)
             </li>
             <li class="list-group-item">
               Set up and maintain website backend through
-              Django, MySQL, and Postgre SQL
+              Django, Node/Express, MySQL, and Postgre SQL
             </li>
             <li class="list-group-item">
               Use Docker on linux servers for webhosting, app deployment, and email services
             </li>
-            <li class="list-group-item">Implement Data Structures and Algorithms in C and develop games in C++</li>
+            <li class="list-group-item">Implement Data Structures and Algorithms in C and develop games in Python</li>
           </ul>
 
 </details>
