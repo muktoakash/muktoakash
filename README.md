@@ -12,10 +12,10 @@ I have over 14 years of teaching experience with over five years of programming 
 *   🤝  I'm open to collaborating on python and C projects
 *   ⚡  Check out my blog on <a href="https://anxiousatmath.blogspot.com">Learning about Math Anxiety</a>
 
-<table>
+### Skills 
+<table style="border-collapse: collapse;">
 <tr>
 <td>
-### Skills 
 <details>
   <summary>
     <b> Data Analysis, Visualization, and Machine Learning </b>
