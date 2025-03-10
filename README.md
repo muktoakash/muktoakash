@@ -121,6 +121,7 @@ I have over 14 years of teaching experience with over five years of programming 
 </td>
 </tr>
 </table>
+
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Dark Side of the Wall](https://anxiousatmath.blogspot.com/2024/12/dark-side-of-wall.html)
