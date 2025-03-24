@@ -13,10 +13,7 @@ I have over 14 years of teaching experience with over five years of programming 
 *   ⚡  Check out my blog on <a href="https://anxiousatmath.blogspot.com">Learning about Math Anxiety</a>
 
 ### Skills 
-<table style="border-collapse: collapse;">
-<tr>
-	
-<td>
+|
 <div align="center">
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" alt="Git" title="Git"/></code>
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bash.png" alt="bash" title="bash"/></code>
@@ -48,8 +45,7 @@ I have over 14 years of teaching experience with over five years of programming 
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/pytest.png" alt="pytest" title="pytest"/></code>
 </div>
 </details>
-</td>
-<td>
+|
 <details>
   <summary>
     <b> Data Analysis, Visualization, and Machine Learning </b>
@@ -119,9 +115,7 @@ I have over 14 years of teaching experience with over five years of programming 
             <li class="list-group-item">Train academic advisors on advising International students</li>
           </ul>
 </details>
-</td>
-</tr>
-</table>
+|
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
