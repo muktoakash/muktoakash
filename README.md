@@ -13,7 +13,7 @@ I have over 14 years of teaching experience with over five years of programming 
 *   ⚡  Check out my blog on <a href="https://anxiousatmath.blogspot.com">Learning about Math Anxiety</a>
 
 ### Skills 
-<table style="border-collapse: collapse; border: None">
+<table style="border-collapse: collapse; border: none">
 <tr>
 	
 <td width="300px">
