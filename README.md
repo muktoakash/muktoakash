@@ -13,10 +13,10 @@ I have over 14 years of teaching experience with over five years of programming 
 *   ⚡  Check out my blog on <a href="https://anxiousatmath.blogspot.com">Learning about Math Anxiety</a>
 
 ### Skills 
-<table style="border-collapse: collapse; border: none">
+<table style="border-collapse: collapse; border: none;">
 <tr>
 	
-<td width="300px">
+<td width="300px" style="border: none">
 <div align="center">
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" alt="Git" title="Git"/></code>
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bash.png" alt="bash" title="bash"/></code>
